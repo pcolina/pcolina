@@ -1,7 +1,7 @@
 # Hi. I'm Pablo Colina
 
 
-- 💻 I’m currently working on [NTT Data](https://www.nttdata.com/global/en/)  
+- 💻 I am looking for new professional challenges.  
 - 🌱 always learning new things
 - 🔭 I love Pothography. You can see some here [Instagram](https://instagram.com/pabloangelcolina)
 
