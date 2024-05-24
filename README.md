@@ -28,7 +28,7 @@
 - Creating a POC with Storybook.js and creating a new component in Angular 16
 - **Technologies:** ANGULAR, PRIMENG, STORYBOOK, JASMINE, SONAR, RXJS, AGILE, NEXUS, GITHUB
 - **Duration:** 04-2022 / 05-2024
-- 
+  
 ### Ntt Data (Alicante, Spain)
 **Technical Specialist (Angular)**
 - Management of the front-end technical team, user story estimations, architecture definition, and development of two projects for a major national electrical client.
