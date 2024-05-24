@@ -4,6 +4,7 @@
 - 💻 I am looking for new professional challenges.  
 - 🌱 always learning new things. Currently pursuing the Google UX Design Certificate.
 - 🔭 I love Pothography. You can see some here [Instagram](https://instagram.com/pabloangelcolina)
+- 📧 Contact me at: [pabloacdev@gmail.com](mailto:pabloacdev@gmail.com)
 
 ## ⚡ Technologies
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=flat&logoColor=red)
