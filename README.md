@@ -2,7 +2,7 @@
 
 
 - 💻 I am looking for new professional challenges.  
-- 🌱 always learning new things
+- 🌱 always learning new things. Currently the certificate at google in UX design
 - 🔭 I love Pothography. You can see some here [Instagram](https://instagram.com/pabloangelcolina)
 
 ## ⚡ Technologies
