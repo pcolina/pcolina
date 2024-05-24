@@ -29,7 +29,7 @@
 ### Innotec (Madrid, Spain) (04-2022 / 05-2024)
 **Frontend Senior Developer**
 - Creating a POC with Storybook.js and creating a new component in Angular 16
-- **Technologies:** ANGULAR, STORYBOOK, PRIMENG, RXJS, JASMINE,  , GITHUB
+- **Technologies:** ANGULAR, STORYBOOK, PRIMENG, RXJS, JASMINE,  GITHUB
   
 ### Ntt Data (Alicante, Spain) (02-2022 / 04-2024)
 **Technical Specialist (Angular)**
