@@ -1,5 +1,8 @@
 # Hi. I'm Pablo Colina
 
+<div style="float:right; margin-left: 20px;">
+  <img src="ruta_de_tu_foto.jpg" alt="Descripción de la imagen">
+</div>
 
 - 💻 I am looking for new professional challenges.  
 - 🌱 always learning new things. Currently pursuing the Google UX Design Certificate.
