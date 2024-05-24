@@ -19,6 +19,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flate&logo=bitbucket)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-42A5F5?style=flat&logo=primeng)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui)
 
 
 ## My Recent Frontend Positions
@@ -26,24 +29,22 @@
 ### Innotec (Madrid, Spain) (04-2022 / 05-2024)
 **Frontend Senior Developer**
 - Creating a POC with Storybook.js and creating a new component in Angular 16
+- **Technologies:** ANGULAR, STORYBOOK, PRIMENG, RXJS, JASMINE,  , GITHUB
   
 ### Ntt Data (Alicante, Spain) (02-2022 / 04-2024)
 **Technical Specialist (Angular)**
 - Management of the front-end technical team, user story estimations, architecture definition, and development of two projects for a major national electrical client.
-
+- **Technologies:** ANGULAR, MATERIAL, PRIMENG, AWS, JEST, SONAR, RXJS, AGILE, CI, GITHUB
+ 
 ### EASYLOG (Madrid, Spain) (12-2020 / 01-2022)
 **Full-Stack Developer**
 - Defined the architecture and led the development as the sole developer for the logistics application serving multiple clients. Managed and published the last-mile transportation management mobile app.
-
+- **Technologies:** ANGULAR, MATERIAL, RXJS, JAVA, TOMCAT, WEBLOGIC, PL/SQL, GITHUB
+ 
 ### RSI (Madrid, Spain) (02-2020 / 11-2020)
 **Full Stack Engineer**
 - Developed a chatbot BackOffice tool and Hub connection for Bnext-RSI-Mastercard.
-- **Technologies:** ANGULAR, MATERIAL, PRIMENG, AWS, JEST, SONAR, RXJS, AGILE, CI, GITHUB
-- **Technologies:** ANGULAR, MATERIAL, RXJS, JAVA, TOMCAT, WEBLOGIC, PL/SQL, GITHUB
 - **Technologies:** REACT, ANGULAR, MATERIAL, REDUX, SAGA, NODE JS, SPRINGBOOT, RXJS
 
-### Innotec (Madrid, Spain) (04-2022 / 05-2024)
-**Frontend Senior Developer**
-- Creating a POC with Storybook.js and creating a new component in Angular 16
-
+ 
 
