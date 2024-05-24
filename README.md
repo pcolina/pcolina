@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flate&logo=bitbucket)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=green)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-42A5F5?style=flat&logo=primeng)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui)
 
