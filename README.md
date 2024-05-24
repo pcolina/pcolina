@@ -19,3 +19,29 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flate&logo=bitbucket)
+
+
+## Mis últimos puestos de trabajo
+
+### Innotec (Madrid, Spain)
+**Frontend Senior Developer**
+- Creating a POC with Storybook.js and creating a new component in Angular 16
+- **Technologies:** ANGULAR, PRIMENG, STORYBOOK, JASMINE, SONAR, RXJS, AGILE, NEXUS, GITHUB
+- **Duration:** 04-2022 / 05-2024
+- 
+### Ntt Data (Alicante, Spain)
+**Technical Specialist (Angular)**
+- Management of the front-end technical team, user story estimations, architecture definition, and development of two projects for a major national electrical client.
+
+### EASYLOG (Madrid, Spain)
+**Full-Stack Developer**
+- Defined the architecture and led the development as the sole developer for the logistics application serving multiple clients. Managed and published the last-mile transportation management mobile app.
+
+### RSI (Madrid, Spain)
+**Full Stack Engineer**
+- Developed a chatbot BackOffice tool and Hub connection for Bnext-RSI-Mastercard.
+- **Technologies:** ANGULAR, MATERIAL, PRIMENG, AWS, JEST, SONAR, RXJS, AGILE, CI, GITHUB
+- **Technologies:** ANGULAR, MATERIAL, RXJS, JAVA, TOMCAT, WEBLOGIC, PL/SQL, GITHUB
+- **Technologies:** REACT, ANGULAR, MATERIAL, REDUX, SAGA, NODE JS, SPRINGBOOT, RXJS
+- **Duration:** 02-2022 / 04-2024, 12-2020 / 01-2022, 02-2020 / 11-2020
+
