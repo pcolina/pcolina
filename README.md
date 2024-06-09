@@ -23,6 +23,8 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=green)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-42A5F5?style=flat&logo=primeng)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat&logo=astro)
+![Phaser](https://img.shields.io/badge/-Phaser-black?style=flat&logo=phaser)
 
 
 ## My Recent Frontend Positions
